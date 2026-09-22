@@ -1128,3 +1128,7 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+- Artist : YOONSEU_L
+- Genre : 힙합
+- [유튜브 바로가기](https://www.youtube.com/watch?v=BGz4KfLCNhc&list=RDBGz4KfLCNhc&start_radio=1)
